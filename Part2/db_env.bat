@@ -1,4 +1,5 @@
 MYSQL_DB=database
+MYSQL_PORT=port
 MYSQL_HOST=locahost
 MYSQL_USER=username
 MYSQL_PASS=password

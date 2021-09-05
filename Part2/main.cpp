@@ -3,15 +3,14 @@
 //
 
 #include <iostream>
+
 #include "Start.h"
-#include <mysql/mysql.h>
 
 using namespace std;
 
 int main(){
 
      Start a;
-     a.connectDB();
 
      return 0;
 }
