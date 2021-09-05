@@ -10,7 +10,11 @@ using namespace std;
 
 int main(){
 
-     Start a;
+     Start run;
+
+     //run.part1();
+
+     run.rule_2();
 
      return 0;
 }
