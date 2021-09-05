@@ -1,8 +1,8 @@
-last_name, first_name, street_address, unit, city, state, zip, dob, ssn, email_address,mobile_number,account_number
-Dark,Joseph,7 B Blue Ridge Blvd,,Brighton,MI,48116,3/1/1975,205-81-3991,jdarky@darakjy.org,5046218927, 43991
+last_name,first_name,street_address,unit,city,state,zip,dob,ssn,email_address,mobile_number,account_number
+Dark,Joseph,7 B Blue Ridge Blvd,,Brighton,MI,48116,3/1/1975,205-81-3991,jdarky@darakjy.org,5046218927,43991
 James,Butt,6649 N Blue Gum St,,New Orleans,LA,70116,7/29/1965,508-60-8859,jbutt@gmail.com,7134926037,26522
 Josephine,Darakjy,4 B Blue Ridge Blvd,,Brighton,MI,48116,3/1/1975,205-81-3006,josephine_darakjy@darakjy.org,5046218927,31938
-Art,Venere,8 W Cerritos Ave ,#54,Bridgeport,NJ,8014,11/10/1947,793-96-7688,art@venere.org,8102929388,31094
+Art,Venere,8 W Cerritos Ave,#54,Bridgeport,NJ,8014,11/10/1947,793-96-7688,art@venere.org,8102929388,31094
 Lenna,Paprocki,639 Main St,,Anchorage,AK,99501,2/11/1986,581-28-7051,lpaprocki@hotmail.com,8566368749,18393
 Kiles,Teresa,54 E 75th St,#69,Los Angeles,CA,90034,9/27/1955,322-92-1333,tkiles54@aol.com,6313353414,21333
 Donette,Foller,34 Center St,,Hamilton,OH,45011,6/11/1939,375-46-8304,donette.foller@cox.net,9073854412,37466
@@ -51,7 +51,7 @@ Jina,Briddick,38938 Park Blvd,,Boston,MA,2128,1/17/1949,903-17-8397,jina_briddic
 Kanisha,Waycott,5 Tomahawk Dr,,Los Angeles,CA,90006,6/30/1948,559-78-9126,kanisha_waycott@yahoo.com,6173995124,23777
 Emerson,Bowley,762 S Main St,,Madison,WI,53711,5/18/1981,607-56-8700,emerson.bowley@bowley.org,3234532780,20565
 Blair,Malet,209 Decker Dr,,Philadelphia,PA,19132,11/21/1988,952-98-9755,bmalet@yahoo.com,6083367444,32218
-Venn,Artie,81 W Cerritos Ave ,#54,Bridgeport,NJ,8014,11/10/1947,793-96-4891,art@venere.org,8102929388,44891
+Venn,Artie,81 W Cerritos Ave,#54,Bridgeport,NJ,8014,11/10/1947,793-96-4891,art@venere.org,8102929388,44891
 Paps,Lenord,6391 Main St,,Anchorage,AK,99501,2/11/1986,581-28-6762,lenpaps@hotmail.com,8566368749,46762
 Fuller,Don,345 Center St,,Hamilton,OH,45011,6/11/1939,375-46-3111,donniefuller.foller@cox.net,9073854412,53111
 Sam,Mirasca,321 Mcauley Dr,,Ashland,OH,44805,1/12/1968,760-78-3222,smirasca@hotmail.com,5135701893,53222
@@ -84,7 +84,7 @@ Kallie,Blackwood,701 S Harrison Rd,,San Francisco,CA,94104,4/16/1970,700-68-2667
 Johnetta,Abdallah,1088 Pinehurst St,,Chapel Hill,NC,27514,6/6/1982,445-46-4905,johnetta_abdallah@aol.com,4153152761,22969
 Bobbye,Rhym,30 W 80th St,#1995,San Carlos,CA,94070,6/4/1989,802-79-3430,brhym@rhym.com,9192259345,23991
 Micaela,Rhymes,20932 Hedley St,,Concord,CA,94520,10/4/1978,368-34-6459,micaela_rhymes@gmail.com,6505285783,17178
-Tamar,Hoogland,2737 Pistorio Rd ,#9230,London,OH,43140,8/18/1969,771-92-2761,tamar@hotmail.com,9256473298,36403
+Tamar,Hoogland,2737 Pistorio Rd,#9230,London,OH,43140,8/18/1969,771-92-2761,tamar@hotmail.com,9256473298,36403
 Moon,Parlato,74989 Brandon St,,Wellsville,NY,14895,2/12/1973,305-56-6141,moon@yahoo.com,7403438575,21248
 Smith,Michael,4306 Yoakum Blvd,,Houston,TX,77006,7/29/1965,108-60-1119,msmith111@gmail.com,7134921111,11111
 Laurel,Reitler,6 Kains Ave,,Baltimore,MD,21215,8/23/1994,484-89-6813,laurel_reitler@reitler.com,5858668313,24493
@@ -133,13 +133,13 @@ Glory,Kulzer,55892 Jacksonville Rd,,Owings Mills,MD,21117,2/23/1977,252-73-5298,
 Shawna,Palaspas,5 N Cleveland Massillon Rd,,Thousand Oaks,CA,91362,6/22/1961,657-28-4128,shawna_palaspas@palaspas.org,4102249462,14558
 Brandon,Callaro,7 Benton Dr,,Honolulu,HI,96819,5/1/1965,750-37-1076,brandon_callaro@hotmail.com,8052753566,31957
 Scarlet,Cartan,9390 S Howell Ave,,Albany,GA,31701,1/22/1963,813-24-3598,scarlet.cartan@yahoo.com,8082156832,26263
-Oretha,Menter,8 County Center Dr, #647,Boston,MA,2210,11/2/1948,966-27-9200,oretha_menter@yahoo.com,2297353378,34729
+Oretha,Menter,8 County Center Dr,#647,Boston,MA,2210,11/2/1948,966-27-9200,oretha_menter@yahoo.com,2297353378,34729
 Ty,Smith,4646 Kaahumanu St,,Hackensack,NJ,7601,2/3/1974,748-18-6394,tsmith@aol.com,6174185043,37639
 Xuan,Rochin,2 Monroe St,,San Mateo,CA,94403,2/14/1987,704-48-4700,xuan@gmail.com,2016721553,39330
 Lindsey,Dilello,52777 Leaders Heights Rd,,Ontario,CA,91761,3/29/1995,387-05-9052,lindsey.dilello@hotmail.com,6509335072,19862
 Devora,Perez,72868 Blackington Ave,,Oakland,CA,94606,1/15/1992,884-06-8032,devora_perez@perez.org,9096399887,32307
 Herman,Demesa,9 Norristown Rd,,Troy,NY,12180,7/31/1960,833-83-4886,hdemesa@cox.net,5109553016,36836
-Rory,Papasergi,83 County Road 437 ,#8581,Clarks Summit,PA,18411,3/15/1950,670-88-3233,rpapasergi@cox.net,5184972940,20598
+Rory,Papasergi,83 County Road 437,#8581,Clarks Summit,PA,18411,3/15/1950,670-88-3233,rpapasergi@cox.net,5184972940,20598
 Talia,Riopelle,1 N Harlem Ave,#9,Orange,NJ,7050,8/13/1968,861-01-3917,talia_riopelle@aol.com,5708677489,22239
 Van,Shire,90131 J St,,Pittstown,NJ,8867,8/10/1955,974-79-4897,van.shire@shire.com,9732452133,21777
 Lucina,Lary,8597 W National Ave,,Cocoa,FL,32922,3/25/1970,295-44-4351,lucina_lary@cox.net,9084092890,26955
