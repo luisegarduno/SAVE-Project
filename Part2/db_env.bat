@@ -1,0 +1,4 @@
+MYSQL_DB=database
+MYSQL_HOST=locahost
+MYSQL_USER=username
+MYSQL_PASS=password
