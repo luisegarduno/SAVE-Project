@@ -1,0 +1,5 @@
+MYSQL_DB=save_schema
+MYSQL_PORT=3306
+MYSQL_HOST=localhost
+MYSQL_USER=admin
+MYSQL_PASS=password

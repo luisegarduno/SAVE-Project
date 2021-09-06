@@ -6,6 +6,7 @@
 
 // Default Constructor
 Start::Start(){
+     //printLogo();
 
      // Load in connection details to struct object
      fstream db_file ("db_env.bat");
