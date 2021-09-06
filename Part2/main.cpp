@@ -3,17 +3,13 @@
 //
 
 #include <iostream>
-
 #include "Start.h"
-
-using namespace std;
 
 int main(){
 
      Start run;
 
-     //run.part1();
-
+     run.rule_1();
      run.rule_2();
 
      return 0;

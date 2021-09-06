@@ -1,0 +1,9 @@
+Name                Account Number      Transaction Number       Merchant                 Transaction Amount
+Michael Smith       11111               17                       KROGER                   $2300
+Glick Albina        17079               8                        WHOLEFDS                 $457
+John Doe            22222               4                        BEST BUY                 $10000
+Pugh Blondell       30808               8                        EFT                      $393
+Klusman Arlene      32764               3                        FANDUEL BETFAIR INC      $690
+Jane Doe            33333               5                        McDonald’s             $525
+Monica Abel         33555               4                        BEST BUY                 $10000
+Artie Venn          44891               4                        BEST BUY                 $10000
